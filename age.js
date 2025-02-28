@@ -38,3 +38,7 @@
 // document.write("Round off value: " + roundoff + "<br>");
 // document.write("Floor value: " + floor + "<br>");
 // document.write("Ceil value: " + ceil + "<br>");
+
+// var number = parseFloat(prompt("Enter a number"));
+// var absolute = Math.abs(number);
+// document.write("Absolute value: " + absolute + "<br>");
